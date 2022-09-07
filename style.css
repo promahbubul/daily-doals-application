@@ -36,8 +36,10 @@ button {
     border: 1px solid rgb(188, 188, 188);
     outline: none;
     border-radius: 3.5px;
-    font: 100 1.4vmax arial;
+    font: 100 1.5rem arial;
+    color: rgb(16, 62, 59);
 }
+
 
 button {
     background-color: #00b894;
@@ -73,7 +75,7 @@ button:hover {
     margin-top: 15px;
     margin-right: 20px;
     color: darkslategray;
-    font-size: 1.0rem;
+    font-size: 1.1rem;
     text-align: justify;
 
 }
